@@ -1,0 +1,17 @@
+[
+	{
+		"Bank name":"HSBC Canada",
+		"Card Number":"5601-2345-3446-5678",
+		"Expiry date":"Nov-2017"
+	},
+	{
+		"Bank name":"Royal Bank Of Canada",
+		"Card Number":"4519-4532-4524-2456",
+		"Expiry Date": Oct-2017
+	},
+	{
+		"Bank name":"American Express",
+		"Card Number":"3786-7334-8965-345",
+		"Expiry Date": Dec-2018,
+	},
+]
